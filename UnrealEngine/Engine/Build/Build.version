@@ -1,0 +1,12 @@
+{
+	"MajorVersion": 4,
+	"MinorVersion": 23,
+	"PatchVersion": 1,
+	"Changelist": 85151,
+	"CompatibleChangelist": 85151,
+	"IsLicenseeVersion": 1,
+	"IsPromotedBuild": 1,
+	"BranchName": "//Squad/v2.16",
+	"BuildId": "",
+	"BuildVersion": ""
+}
